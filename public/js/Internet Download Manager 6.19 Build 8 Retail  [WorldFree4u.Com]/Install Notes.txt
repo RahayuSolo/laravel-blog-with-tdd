@@ -1,0 +1,16 @@
+  1. Install the application and CLOSE. (It may say Fake Serial and 
+     expired application, click on cancel)
+  2. Close Application From Taskbar or icon tray in your window
+  3. Copy "idm-patch-UnREaL.exe" from "Patch UnREaL" folder and paste it
+     in to the installation folder It is generally :
+     C:\Program Files (x86)\Internet Download Manager
+     OR
+     C:\Program Files\Internet Download Manager
+
+  4. Run "idm-patch-UnREaL.exe" and
+
+    a. Click on "REG" button
+    b, Click on "PATCH" button - browse and select idman.exe
+    c. Click on "Open" 
+
+  * Check "Activation pictures" folder
